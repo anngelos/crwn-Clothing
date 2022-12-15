@@ -1,6 +1,6 @@
 # Welcome to CRWN Clothing project
 
-Este projeto consiste em uma aplicação simples de vendas de roupas.
+This project consists of a simple clothing sales application.
 
 
 
@@ -11,4 +11,4 @@ Este projeto consiste em uma aplicação simples de vendas de roupas.
 
 ### `Vamos rodar o projeto`
 
-Clone o projeto para a sua máquina. Após isso, abra o terminal na pasta do projeto e rode <i>npm install</i> para baixar todas as dependencias necessarias e depois rode o <i>npm start</i> e seja feliz.
+Clone the project to your machine. After that, open the terminal in the project folder and run <i>npm install</i> to download all the necessary dependencies and then run <i>npm start</i> and be happy.
