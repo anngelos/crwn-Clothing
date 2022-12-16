@@ -11,8 +11,7 @@ Clone the project to your machine. After that, open the terminal in the project 
 
 
 ### `About the project`
-The project was created in conjunction with the Complete React Developer in 2023 (w/ Redux, Hooks, GraphQL) course by instructor Andrei Neagoie and Yihua Zhang on the Udemy platform. This course provided many teachings, among which I highlight Redux, which is very important in the life of a developer today. This application is simple but it has a connection with Firebase, it has Redux implemented in the project too and I hope you like it!
-
+The project was created in conjunction with the Complete React Developer in 2023 (w/ Redux, Hooks, GraphQL) course by instructor Andrei Neagoie and Yihua Zhang on the Udemy platform. This course provided many teachings, among which I highlight Redux, which is very important in the life of a developer today. This application is a result from my studies with Firebase, Redux/Redux Saga and I hope you enjoy it!
 
 
 Thank you all!
