@@ -7,7 +7,7 @@ This project consists of a simple clothing sales application.
 
 
 ### `Let's run the project`
-Clone the project to your machine. After that, open the terminal in the project folder and run <i>npm install</i> to download all the necessary dependencies and then run <i>npm start</i> and be happy.
+Clone the project to your machine. After that, open the terminal in the project folder and run <code>npm install</code> to download all the necessary dependencies and then run <code>npm start</code> and be happy.
 
 
 ### `About the project`
