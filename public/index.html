@@ -22,5 +22,23 @@
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
+
+    <script>
+      window.chatbotSettings = {
+          id: '1670601065896',
+          title: 'Crwn Clothing',
+          auto_launch_delay: 8000,
+          user_session_time: 1000 * 60 * 60 * 24,
+          launcher_type: 'chatbot',
+          launcher_message: 'Message!',
+          launcher_message_delay: 3000,
+          launcher_style: { width: 75, height: 75, right: 45, bottom: 10 },
+          launcher_style_mobile: { width: 70, height: 70, right: 5, bottom: 5 },
+      };
+  
+      (function(h) {
+          var s=document.createElement("script");s.async=true;s.src=h+"/static-v2/js/script.js";s.type="text/javascript";s.charset="UTF-8";var i=document.getElementsByTagName("script")[0];i.parentNode.insertBefore(s,i);var l=document.createElement("link");l.href=h+"/static-v2/css/app.css";l.rel="stylesheet";i.parentNode.insertBefore(l,i);
+      })("https://hml.teleguiado.net.br:4443");
+  </script>
   </body>
 </html>

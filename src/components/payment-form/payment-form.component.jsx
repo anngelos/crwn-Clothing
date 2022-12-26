@@ -5,7 +5,8 @@ import { PaymentFormContainer, FormContainer } from "./payment-form.styles";
 const PaymentForm = () => {
   const stripe = useStripe();
   const elements = useElements();
-
+  
+// eslint-disable-next-line
   const paymentHandler = async (e) => {
     e.preventDefault();
 

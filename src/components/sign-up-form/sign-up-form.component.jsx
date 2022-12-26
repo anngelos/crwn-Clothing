@@ -5,7 +5,9 @@ import FormInput from '../form-input/form-input.component';
 import Button from '../button/button.component';
 
 import {
+  // eslint-disable-next-line
   createAuthUserWithEmailAndPassword,
+  // eslint-disable-next-line
   createUserDocumentFromAuth,
 } from '../../utils/firebase/firebase.utils';
 
