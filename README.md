@@ -1,4 +1,4 @@
-# Welcome to CRWN Clothing project
+# CRWN Clothing project
 This project consists of a simple clothing sales application.
 
 
